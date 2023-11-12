@@ -1,0 +1,14 @@
+# sssi-user 14 67.1.A.2.112 1 release-keys
+- manufacturer: sony
+- platform: kalama
+- codename: pdx234
+- flavor: sssi-user
+- release: 14
+- id: 67.1.A.2.112
+- incremental: 1
+- tags: release-keys
+- fingerprint: Sony/pdx234/pdx234:13/TKQ1.221114.001/1:user/release-keys
+- is_ab: true
+- brand: Sony
+- branch: sssi-user-14-67.1.A.2.112-1-release-keys
+- repo: sony_pdx234_dump
