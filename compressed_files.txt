@@ -1,0 +1,9 @@
+system_ext/apex/com.android.vndk.v30.apex.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/priv-app/Messages/Messages.apk.xz
+product/deletable-media/Movies/lyle_lyle_crocodile_dtrl1_hdr_eng51.mp4.xz
+product/app/Photos/Photos.apk.xz
+product/app/Maps/Maps.apk.xz
+product/app/WebViewGoogle/WebViewGoogle.apk.xz
+product/app/YouTube/YouTube.apk.xz
+product/app/Gmail2/Gmail2.apk.xz
