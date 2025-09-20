@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ *********************************************************************
+ * Copyright 2024 Sony Corporation                                   *
+ *********************************************************************
+-->
+
+<config>
+<asl-file package="jp.co.sony.mc.videopro" path="/product/etc/asl/jp.co.sony.mc.videopro.data.safety.xml"/>
+</config>
