@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ *********************************************************************
+ * Copyright 2024 Sony Corporation                                   *
+ *********************************************************************
+-->
+
+<config>
+<asl-file package="com.sonymobile.photopro" path="/product/etc/asl/com.sonymobile.photopro.data.safety.xml"/>
+</config>

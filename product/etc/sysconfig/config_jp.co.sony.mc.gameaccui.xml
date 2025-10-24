@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2024 Sony Corporation
+-->
+<config>
+    <asl-file package="jp.co.sony.mc.gameaccui" path="/product/etc/asl/jp.co.sony.mc.gameaccui.data.safety.xml"/>
+</config>
+
