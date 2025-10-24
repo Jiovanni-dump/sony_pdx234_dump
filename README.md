@@ -1,0 +1,14 @@
+# sssi-user 15 AQ3A.240812.002 QSSI-15.1.0-REL-250822-0752 release-keys
+- manufacturer: sony
+- platform: kalama
+- codename: pdx234
+- flavor: sssi-user
+- release: 15
+- id: 67.2.A.3.115
+- incremental: QSSI-15.1.0-REL-250822-0752
+- tags: release-keys
+- fingerprint: Sony/pdx234/pdx234:13/TKQ1.221114.001/YODO-1.2.0-REL-250818-0235:user/release-keys
+- is_ab: true
+- brand: Sony
+- branch: sssi-user-15-AQ3A.240812.002-QSSI-15.1.0-REL-250822-0752-release-keys
+- repo: sony_pdx234_dump
